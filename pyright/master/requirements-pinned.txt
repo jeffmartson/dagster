@@ -232,7 +232,7 @@ ffmpeg-python==0.2.0
 filelock==3.16.1
 flaky==3.8.1
 flask==2.2.5
-flask-appbuilder==4.3.6
+flask-appbuilder==4.8.1
 flask-babel==2.0.0
 flask-caching==2.3.0
 flask-cors==5.0.0
