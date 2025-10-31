@@ -144,3 +144,4 @@ fastapi>=0.115.6 # producing a bizarrely early version of fastapi without this
 -e examples/use_case_repository[dev]
 -e examples/project_atproto_dashboard
 -e examples/project_dagster_modal_pipes
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
