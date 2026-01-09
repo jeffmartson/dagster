@@ -1,3 +1,4 @@
   sphinx>=8,<9
   sphinx-click
   sphinx_toolbox
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
