@@ -370,7 +370,7 @@ mdit-py-plugins==0.4.2
 mdurl==0.1.2
 mistune==3.0.2
 mixpanel==4.10.1
-mlflow==1.27.0
+mlflow==3.4.0rc0
 modal==0.68.41
 more-itertools==10.5.0
 morefs==0.2.2
@@ -392,7 +392,7 @@ mypy-protobuf==3.6.0
 mysql-connector-python==9.1.0
 natsort==8.4.0
 nbclient==0.10.1
-nbconvert==7.16.4
+nbconvert==7.17.0
 nbformat==5.10.4
 nest-asyncio==1.6.0
 networkx==3.4.2
@@ -459,7 +459,7 @@ prometheus-flask-exporter==0.23.1
 prompt-toolkit==3.0.48
 propcache==0.2.1
 proto-plus==1.25.0
-protobuf==5.29.2
+protobuf==6.33.5
 psutil==6.1.0
 psycopg2-binary==2.9.10
 ptyprocess==0.7.0
